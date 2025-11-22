@@ -28,7 +28,7 @@
 - Klasių priklausomybė pateikiama grafiškai: skirtingos spalvos klasėms, tiesės – klasėms atskirti.
 - Tiesės brėžiamos pagal skirtingus surastus svorių ir poslinkio rinkinius.
 
-## Kodas pavyzdyje – pagrindiniai žingsniai
+## Kodas – pagrindiniai žingsniai
 
 - `Neuron` – neurono klasė, kuri paveldi iš `nn.Module`, su pasirenkama aktyvacijos funkcija.
 - `step_function` – slenkstinė aktyvacijos funkcija (grąžina 1, kai įėjimas >=0).
