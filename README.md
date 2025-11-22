@@ -36,6 +36,6 @@
 - Svorių ir poslinkio paieška – 1000 bandymų generuoti atsitiktinius svorius bei poslinkį, ieškant rinkinių, kurie visiškai tiksliai klasifikuoja duomenis.
 - Rezultatų vizualizacija – panaudojant `matplotlib` pavaizduojamos klasės ir jas atskiriančios tiesės.
 
-## Reziumė
+## Apibendrinimas
 
 Šis darbas skirtas supažindinti su paprasto dirbtinio neurono modelio veikimu ir duomenų klasifikavimu naudojant ranka parinktus parametrus. Įgyvendinamas visas procesas nuo duomenų generavimo iki vizualizavimo ir paremtas interaktyviu vartotojo pasirinkimu.
